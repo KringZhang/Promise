@@ -1,2 +1,2 @@
 # Promise
-Promise的实现
+Promise的部分实现
